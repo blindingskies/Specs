@@ -21,5 +21,11 @@ Pod::Spec.new do |s|
     categories.source_files = "Sources/Categories/*.{h,m}"
     categories.requires_arc = true
   end
+
+  # Dependencies
+  s.dependency 'CocoaLumberjack', '~> 1.0'
+  s.dependency 'GoogleAnalytics-iOS-SDK', '~> 2.0beta4'
+  s.dependency 'HockeySDK', '~> 3.0'
+  s.dependency 'Parse', '~> 1.2'
   
 end 
