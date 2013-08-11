@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author        = { "Daniel Thorpe" => "dan@blindingskies.com" }
 
   s.platform      = :ios, '5.0'
-  s.source        = { :git => "git@github.com:blindingskies/BSUtilities.git", :tag => "0.1" }  
+  s.source        = { :git => "git@github.com:blindingskies/BSUtilities.git", :tag => "0.1.1" }  
   
   # Classes
   s.subspec 'Classes' do |classes|
