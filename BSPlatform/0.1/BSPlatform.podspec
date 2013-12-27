@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name = "BSPlatform"
-  s.version = "dev-1"
+  s.version = "0.1"
   s.summary = "Blinding Skies iOS Platform"
   s.homepage = "http://www.blindingskies.com"
   s.license = "Closed"
