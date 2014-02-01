@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
 '''    
 
     # Third Party Dependencies in Foundation
-    foundation.dependency 'CocoaLumberjack', '~> 1.7.0'
+    foundation.dependency 'CocoaLumberjack', '~> 1.6.3'
     foundation.dependency 'Parse-iOS-SDK', '~> 1.2.17'
     foundation.dependency 'ReactiveCocoa', '~> 2.1.8'
     foundation.dependency 'Mixpanel', '~> 2.2.0'
