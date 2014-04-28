@@ -62,7 +62,7 @@ Pod::Spec.new do |s|
       ui.source_files = "UI/source/*.{h,m}", "UI/source/**/*.{h,m}" 
       ui.requires_arc = true
       ui.frameworks = 'UIKit'
-      ui.dependency 'BPPlatform/Production/Foundation/Core'
+      ui.dependency 'BSPlatform/Production/Foundation/Core'
     end
   end
 end
